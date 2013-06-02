@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet rel="stylesheet" type="text/css" href="dcstat.css"?>
+<measure>
+	<page number="1"/>
+	<citation type="D.C. Law" number="19-206"/>
+	<codified status="true"/>
+	<text>
+		<long_title>To amend the Pedestrian Protection Amendment Act of 1987 to require vehicles to stop before passing through a crosswalk when a vehicle in an adjacent lane is stopped and to clarify that persons on  bicycles and operating personal mobility devices have the same rights and duties as pedestrians under the same circumstances.</long_title>
+		<short_title>Pedestrian and Bicyclist Protection Amendment Act of 2012</short_title>
+		<sections>
+			<section number="2" type="amendatory"><margin_note text="Amend" code="50-2201.08"/><section_header/><section_text>
+			<act><act_section number="2">Section 2</act_section> of the <act_title>Pedestrian Protection Amendment Act of 1987</act_title>, effective October 9, 1987 (<DC_Law cite="7-34">D.C. Law 7-34</DC_Law>; <DCCode cite="50-2201.08">D.C. Official Code 50-2201.28</DCCode>)</act>, is amended as follows:<subsection prefix="a">(a) A new subsection (a-1) is added to read as follows: <amendment level="subsection=" prefix="a-1">"(a-1) Whenever a vehicle is stopped at a marked crosswalk at an unsignalized  intersection, a vehicle approaching the crosswalk in an adjacent lane or from behind the stopped vehicle shall stop and give the right-of-way to ensure the safety of pedestrians and bicyclists before passing the stopped vehicle.".</amendment> 
+			</subsection>
+			<subsection prefix="b">(b) A new subsection (b-1) is added to read as follows: <amendment level="subsection" prefix="b-1">"(b-1) A person on a bicycle or operating a personal mobility device upon or along a sidewalk or while crossing a roadway in a crosswalk shall have the rights and duties applicable to a pedestrian under the same circumstances; provided, that: <amendment level="paragraph" prefix="1">"(1) The bicyclist or personal mobility device operator yields to pedestrians on the sidewalk or crosswalk; and </amendment>
+			<amendment level="paragraph" prefix="2">"(2) Riding a bicycle on the sidewalk is permitted.".</amendment></amendment>
+			</subsection></section_text>
+			</section>
+			<section number="3"><section_header>Fiscal impact statement.</section_header><section_text>The Council adopts the fiscal impact statement in the committee report as the fiscal impact statement required by <act><act_section number="602(c)(3)">section 602(c)(3)</act_section> of the <act_title>District of Columbia Home Rule Act</act_title>, approved December 24, 1973 (<USStat>87 Stat. 813</USStat>; <DCCode cite="1-206.02">D.C. Official Code 1-206.02(c)(3))</DCCode></act>.</section_text>
+			</section>
+			<section number="4"><section_header>Effective date.</section_header><section_text>This act shall take effect following approval by the Mayor (or in the event of veto by the  Mayor, action by the Council to override the veto), a 30-day period of Congressional review as provided in <act><act_section number="602(c)(1)">section 602(c)(1)</act_section> of the <act_title>District of Columbia Home Rule Act</act_title>, approved December 24, 1973 (<USStat>87 Stat. 813</USStat>; <DCCode cite="1-206.02">D.C. Official Code 1-206.02(c)(1))</DCCode></act>, and publication in the District of  Columbia Register.</section_text></section>
+		</sections>
+	</text>
+	<margin_notes>
+		<margin_note>
+			<related_measures>
+				<related_bill CouncilPeriod="19" number="568"/>
+				<related_act CouncilPeriod="19" number="468" effective_date="2012-10-23"/>
+			</related_measures>
+		</margin_note>
+	</margin_notes>
+</measure>

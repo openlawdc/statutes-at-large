@@ -1,0 +1,34 @@
+long_title{ 
+	font-style: italic;
+	display:block;
+}
+short_title:before {
+	content: "BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the \"";
+}
+short_title:after{
+	content:"\".";
+}
+section {
+	display:block;
+	text-indent: 20px;
+}
+section_text{
+display:block;
+}
+subsection {
+	display:block;
+	text-indent: 20px;
+}
+amendment{
+	display:block;
+	color:red;
+}
+amendment[level="subsection"]{
+	text-indent:20px;
+}
+amendment[level="paragraph"]{
+	text-indent:40px;
+}
+DCCode {
+	color:blue;
+}
